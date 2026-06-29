@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle fill="#DBEAFE" cx="12" cy="12" r="12"/>
+        <path d="M7,8 L17,8 C17.5522847,8 18,8.44771525 18,9 L18,15 C18,15.5522847 17.5522847,16 17,16 L7,16 C6.44771525,16 6,15.5522847 6,15 L6,9 C6,8.44771525 6.44771525,8 7,8 Z M8,10 L8,14 L16,14 L16,10 L8,10 Z" fill="#3B82F6"/>
+    </g>
+</svg>
